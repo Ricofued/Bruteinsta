@@ -41,7 +41,7 @@ fi
 }
 
 banner() {
-
+./insta.sh
 printf "\e[1;92m     _                                      \e[0m\n"
 printf "\e[1;92m _  | |                                     \e[0m\n"
 printf "\e[1;92m( \ | | ____    ___  _| |_  _____           \e[0m\n"
